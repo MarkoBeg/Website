@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.93c13529.css",
+    "main.js": "/Website/static/js/main.3b50c4ed.js",
+    "static/media/phone.png": "/Website/static/media/phone.2b608cd4d148ed2e31f5.png",
+    "static/media/mobile-feature-0.png": "/Website/static/media/mobile-feature-0.45efc6a246782c742dfc.png",
+    "static/media/midPhoneBlack.png": "/Website/static/media/midPhoneBlack.15dd17879be94efb782e.png",
+    "static/media/mobile-feature-events-01.png": "/Website/static/media/mobile-feature-events-01.e434f1004dbff53db1e2.png",
+    "static/media/mobile-feature-wellness-01.png": "/Website/static/media/mobile-feature-wellness-01.d8b23139d0d644540c39.png",
+    "static/media/lyingPhone.png": "/Website/static/media/lyingPhone.53ca4a0aec4b2006ead3.png",
+    "static/media/MidComponentPhone.png": "/Website/static/media/MidComponentPhone.93dcd40ec54bc794d644.png",
+    "static/media/mobile-feature-services-01.png": "/Website/static/media/mobile-feature-services-01.a484e2053c8bed1b7242.png",
+    "static/media/phoneFront.png": "/Website/static/media/phoneFront.299fef5c6a16f7f1803e.png",
+    "static/media/light.svg": "/Website/static/media/light.47d266373adff73f2f06.svg",
+    "static/media/dark.svg": "/Website/static/media/dark.a56cd09995eb8d674018.svg",
+    "static/media/bgHeaderr.svg": "/Website/static/media/bgHeaderr.5a907390f9d1455c6f73.svg",
+    "static/media/bgHeaderrDark.svg": "/Website/static/media/bgHeaderrDark.c7da0e3a6c7b09eec2fe.svg",
+    "static/media/vertical-flip.svg": "/Website/static/media/vertical-flip.97de196857e127a5ae32d4f4b2cbd677.svg",
+    "static/media/google-play.svg": "/Website/static/media/google-play.9291383ad4e218082844ed9ee8745fee.svg",
+    "static/media/simplify_logo.svg": "/Website/static/media/simplify_logo.93e1ec9fcbd7591cc64b2ce62da192a7.svg",
+    "static/media/servar.svg": "/Website/static/media/servar.a44cc81c0e945d20b9c4c94b5eb96ce7.svg",
+    "static/media/apple-store.svg": "/Website/static/media/apple-store.b20a89bf3d821b74041252412676fdde.svg",
+    "index.html": "/Website/index.html",
+    "static/media/hotel-service.svg": "/Website/static/media/hotel-service.72f59096ea6515d503c4daab659b107e.svg",
+    "static/media/subtask.svg": "/Website/static/media/subtask.bc0c5c4d1eeebad2694b6b2e7d1ef180.svg",
+    "static/media/arrow.svg": "/Website/static/media/arrow.270489b0d7d0eb3b27fa94fd5afb224f.svg",
+    "static/media/tie.svg": "/Website/static/media/tie.96c7b6db9a7cac275af181cfe567df7d.svg",
+    "static/media/inst.svg": "/Website/static/media/inst.145d3ee1c7668b94653928ac73cc7873.svg",
+    "static/media/star.svg": "/Website/static/media/star.9969c866fa25ce0fa12704fdec91bb2f.svg",
+    "static/media/starWhite.svg": "/Website/static/media/starWhite.49d28a75838379053f07e8a4f9cd1a32.svg",
+    "static/media/fb.svg": "/Website/static/media/fb.af155494030cddf7691f9ee9db4a6d0b.svg",
+    "main.93c13529.css.map": "/Website/static/css/main.93c13529.css.map",
+    "main.3b50c4ed.js.map": "/Website/static/js/main.3b50c4ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c13529.css",
+    "static/js/main.3b50c4ed.js"
+  ]
+}
